@@ -9,9 +9,16 @@
  },
  "sesler": [
   {
-   "dosya": "1_George_yeni_ayar.mp3",
-   "ad": "George_yeni_ayar",
-   "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+   "dosya": "2_Adam.mp3",
+   "voice_id": "J17lijyP1BHYcM7ld0Rg"
+  },
+  {
+   "dosya": "3_Mustafa_Silici.mp3",
+   "voice_id": "fg8pljYEn5ahwjyOQaro"
+  },
+  {
+   "dosya": "4_Atakan.mp3",
+   "voice_id": "GYYjvYBUewPSDNmt60NS"
   }
  ]
 }
