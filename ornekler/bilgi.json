@@ -1,0 +1,17 @@
+{
+ "metin": "Saat sıfır kırk bir. Telefon hâlâ kulağında… Ahizeden bir nefes geliyor. Seninkiyle aynı. Sonra ses fısıldıyor: \"Kapatma.\" Ama sen… çoktan kapatmıştın.",
+ "ayar": {
+  "stability": 0.6,
+  "similarity_boost": 0.8,
+  "style": 0.15,
+  "use_speaker_boost": true,
+  "speed": 0.9
+ },
+ "sesler": [
+  {
+   "dosya": "1_George_yeni_ayar.mp3",
+   "ad": "George_yeni_ayar",
+   "voice_id": "JBFqnCBsd6RMkjVDRZzb"
+  }
+ ]
+}
